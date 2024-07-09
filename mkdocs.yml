@@ -25,7 +25,7 @@ theme:
       accent: blue # 链接等可交互元件的高亮色
       # teal
       toggle:
-        icon: material/toggle-switch # 图标
+        icon: material/weather-night # 图标
         name: 切换至夜间模式 # 鼠标悬浮提示
     - media: "(prefers-color-scheme: dark)"
       scheme: slate # 夜间模式
@@ -33,7 +33,7 @@ theme:
       accent: indigo
       # teal
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/weather-sunny
         name: 切换至日间模式
 
   features:
@@ -106,9 +106,9 @@ nav:
   - 关于:
       - 作者个人简介: about/geren.md
       - 功能测试: about/test.md
-  - 使用本主题: https://github.com/new?template_name=Mkdocs-Wcowin&template_owner=Wcowin
+  # - 使用本主题: https://github.com/new?template_name=Mkdocs-Wcowin&template_owner=Wcowin
 
-copyright: Copyright &copy; 2024~2024 团队/All Rights Reserved. # 左下角的版权声明
+copyright: Copyright &copy; 2024~2024 XX团队/All Rights Reserved. # 左下角的版权声明
 
 extra:
   generator: true #是否删除页脚显示“使用 MkDocs 材料制造”
@@ -128,13 +128,13 @@ extra:
 
     # 网页底部反馈
     feedback:
-      title: 此页面有帮助吗？
+      title: 我们的经验有帮助吗？
       ratings:
         - icon: material/thumb-up-outline #图标可自定义
           name: This page was helpful
           data: 1
           note: >-
-            谢谢你的反馈！
+            感谢你的反馈！
         - icon: material/thumb-down-outline
           name: This page could be improved
           data: 0
