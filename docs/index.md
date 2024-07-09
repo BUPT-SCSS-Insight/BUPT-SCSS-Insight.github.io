@@ -209,7 +209,7 @@ ___       ___     ____     ____     ___       ___    _____      __      _
       <div id="box1"></div>
       <script>
         function timingTime(){
-          let start = '2023-10-14 00:00:00'
+          let start = '2024-07-09 00:00:00'
           let startTime = new Date(start).getTime()
           let currentTime = new Date().getTime()
           let difference = currentTime - startTime
@@ -226,8 +226,8 @@ ___       ___     ____     ____     ___       ___    _____      __      _
           document.getElementById('box1').innerHTML = timingTime()
         },1000)
       </script>
-      </font>
-    </body>
+​      </font>
+​    </body>
 
 
 <script src="//code.tidio.co/6jmawe9m5wy4ahvlhub2riyrnujz7xxi.js" async></script>

@@ -54,8 +54,8 @@ theme:
     - content.tabs.link
     - content.tooltips
     - content.code.copy #代码复制
-    - content.action.edit
-    - content.action.view
+    # - content.action.edit
+    # - content.action.view
     - content.code.annotate
   language: zh # 一些提示性的文字会变成中文
 
