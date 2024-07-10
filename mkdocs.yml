@@ -75,17 +75,17 @@ nav:
           - Mkdocs部署静态网页至GitHub pages配置说明(mkdocs.yml): blog/Mkdocs/mkdocs2.md
           - 解决 mkdocs部署 Github Pages 自定义域名失效的问题: blog/Mkdocs/mkdocs3.md
           - 添加Mkdocs博客: blog/Mkdocs/mkdocsblog.md
-      - 第二个页面:
-          - 网页圆角化设计: blog/websitebeauty/yuanjiaohua.md
-          - 添加评论系统(giscus为例): blog/websitebeauty/mkcomments.md
-          - 添加在线聊天: blog/websitebeauty/webtalknow.md
-          - 添加友链: blog/websitebeauty/linktech.md
-          - 添加顶部公告栏: blog/websitebeauty/header.md
-          - 修改网站字体: blog/websitebeauty/mkdocsfont.md
-          - JS实现鼠标样式: blog/websitebeauty/shubiao.md
-          - 背景特效: blog/websitebeauty/backgroud.md
-          - 添加404页面: blog/websitebeauty/404.md
-          - 为MKdocs添加文章修订时间戳: blog/websitebeauty/time.md
+  - 第二个页面:
+      - 网页圆角化设计: blog/websitebeauty/yuanjiaohua.md
+      - 添加评论系统(giscus为例): blog/websitebeauty/mkcomments.md
+      - 添加在线聊天: blog/websitebeauty/webtalknow.md
+      - 添加友链: blog/websitebeauty/linktech.md
+      - 添加顶部公告栏: blog/websitebeauty/header.md
+      - 修改网站字体: blog/websitebeauty/mkdocsfont.md
+      - JS实现鼠标样式: blog/websitebeauty/shubiao.md
+      - 背景特效: blog/websitebeauty/backgroud.md
+      - 添加404页面: blog/websitebeauty/404.md
+      - 为MKdocs添加文章修订时间戳: blog/websitebeauty/time.md
   - 第三个页面:
       - Markdown:
           - Markdown指南: develop/Markdown/markdown.md
