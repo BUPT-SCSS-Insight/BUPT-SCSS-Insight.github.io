@@ -86,6 +86,7 @@ nav:
       - 背景特效: blog/websitebeauty/backgroud.md
       - 添加404页面: blog/websitebeauty/404.md
       - 为MKdocs添加文章修订时间戳: blog/websitebeauty/time.md
+      - test: blog/websitebeauty/33.md
   - 第三个页面:
       - Markdown:
           - Markdown指南: develop/Markdown/markdown.md
