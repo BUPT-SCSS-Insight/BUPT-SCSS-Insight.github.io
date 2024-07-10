@@ -22,10 +22,11 @@ status: new
 <!-- <img class="img1" src="https://s2.loli.net/2024/02/01/AgiGpYk38C6ctJV.jpg"> -->
 
 <p style="text-align: center; margin: 0px;" markdown>
-  <img src="https://s1.imagehub.cc/images/2024/02/02/79cb7379982d1c7bb0ae7163985609c4.jpeg" alt="arv-anshul" style="width: 300px; border-radius: 50%;" />
-  <p style="text-align: center; font-size: 30px; margin: 0px;"><strong>Wcowin</strong></p>
-  <p style="text-align: center; font-size: 30px; margin: 0px;"><strong>A college student in Chongqing</strong></p>
+  <img src="[头像链接]" alt="arv-anshul" style="width: 300px; border-radius: 50%;" />
+  <p style="text-align: center; font-size: 30px; margin: 0px;"><strong>BUPT-SCSS-Insight</strong></p>
+  <p style="text-align: center; font-size: 30px; margin: 0px;"><strong>A Group of College Student in BUPT</strong></p>
 </p>
+
 
 
 <!-- <div id="rcorners3" >
@@ -35,7 +36,7 @@ status: new
     <p style="font-size: 18px">A college student in CQ</p>
   </div>
 </div> -->
-   
+
 
 !!! pied-piper1 "About me"
     - [x] Hey, I'm [Wcowin](https://bento.me/wcowin){target=“_blank”}!
